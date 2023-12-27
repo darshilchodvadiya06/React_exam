@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 2,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 3,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 4,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 5,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 6,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 7,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 8,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 9,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    },
+    {
+      "id": 10,
+      "productName": "watch",
+      "desc": "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator",
+      "price": "5.99"
+    }
+  ]
+}
